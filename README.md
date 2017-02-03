@@ -1,8 +1,8 @@
 # Awesome Citizen
 
-A curated list of awesome tools, libraries, resources, and other citizen empowering things inspired by [other awesome awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness). 
+A curated list of awesome tools, libraries, and other citizen empowering resources inspired by [other awesome awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness). 
 
-Sharing is caring. If you think a resource should be added, add a 👍 (`:+1:`) at the according issue or create a new one. Please review the [contribution guidelines first](CONTRIBUTING.md). 
+Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`) at the according issue or create a new one. Please review the [contribution guidelines](CONTRIBUTING.md) first. 
 
 * [Awesome Citizen](#awesome-citizen)
     - Elections
