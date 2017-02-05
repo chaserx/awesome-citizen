@@ -26,7 +26,8 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
                 * [Congress API by ProPublica](https://propublica.github.io/congress-api-docs/#congress-api-documentation) - Retrieve legislative data from the House of Representatives, the Senate and the Library of Congress
                 * ?
         - Judicial
-            - ?
+            - APIs
+                + [Supreme Court Data in Bulk and Via a REST API](https://free.law/supreme-court-data/)
     - Whistleblowers
         + Leaking Documenets and media
             * [How easy is it to securely leak information to some of America’s top news organizations? This easy](http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/) - Contains a list of Tor Addresses and SecureDrop URLs
