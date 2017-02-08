@@ -35,6 +35,7 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
                 * [U.S. Senate](https://www.senate.gov/senators/contact/) - Official Senate Website
             + Communication Tools
                 * [Contact Congress](https://theunitedstates.io/contact-congress/) - Help create an open data format for Congressional contact forms
+                * [5 Calls](https://5calls.org/) - Calling is the most effective way to influence your representative.
             + Legistration Tracking
                 * [Congress.gov](https://www.congress.gov/search?q={%22source%22:%22legislation%22}) - Official website for U.S. federal legislative information
                 * [govtrack](https://www.govtrack.us/) - GovTrack helps everyone learn about and track the activities of the United States Congress
