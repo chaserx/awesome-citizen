@@ -18,7 +18,10 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
+          args: README.md
           fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
@@ -26,4 +29,4 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-          labels: report, automated issue
+          labels: report, automated issue, broken-links
