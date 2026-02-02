@@ -32,3 +32,7 @@ Thank you for your suggestions!
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the list guidelines.
 
 [Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+
+## Using AI Tools
+
+AI assistants can help with your contributions. See our [AI-Assisted Contributions Guide](AI_CONTRIBUTIONS.md) for tips on using these tools effectively while maintaining quality standards.
