@@ -3,6 +3,12 @@ name: Link Checker
 on:
   repository_dispatch:
   workflow_dispatch:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * 0"
 
@@ -25,7 +31,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create Issue From File
-        if: always() && steps.lychee.outputs.exit_code != 0
+        if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v6
         with:
           title: Link Checker Report
