@@ -45,6 +45,8 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
       * Legislation Tracking
         * [Congress.gov](https://www.congress.gov/search?q=%7B%22source%22:%22legislation%22%7D) - Official website for U.S. federal legislative information
         * [govtrack](https://www.govtrack.us/) - GovTrack helps everyone learn about and track the activities of the United States Congress
+      * Interests
+        * [List of Congressional Comittees](https://www.congress.gov/committees) - Committees of the U.S. Congress
     * Judicial
       * APIs
         * [Supreme Court Data in Bulk and Via a REST API](https://free.law/projects/supreme-court-data/) - Supreme Court data in bulk and via a REST API
