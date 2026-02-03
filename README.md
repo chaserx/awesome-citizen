@@ -95,8 +95,6 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 #### APIs
 
 - [Congress.gov API](https://api.congress.gov/) - Official API for bills, members, votes, and Congressional Record.
-- [GovTrack Bulk Data](https://www.govtrack.us/developers/data) - Bulk downloads of legislative data.
-- [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/) - Members, votes, bills, and statements.
 - [Voteview](https://voteview.com/) - Congressional roll-call votes and ideology scores since 1789.
 
 #### Interests
