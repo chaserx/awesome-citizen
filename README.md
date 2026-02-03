@@ -1,6 +1,6 @@
 # Awesome Citizen [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome tools, libraries, and other citizen empowering resources inspired by [other awesome awesomeness](https://github.com/topics/awesome).
+A curated list of awesome tools, libraries, and other citizen empowering resources.
 
 Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`) at the according issue or create a new one. Please review the [contribution guidelines](CONTRIBUTING.md) first.
 
@@ -45,8 +45,8 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 
 ### Voter Guides
 
-- [Voting Information Center](https://www.votinginfocenter.xyz/) - Nonpartisan, nonprofit organization providing information on U.S. elections, politics, and policy.
 - [Ballotpedia](https://ballotpedia.org/Main_Page) - Nonpartisan, nonprofit encyclopedia of American politics and elections.
+- [Vote411](https://www.vote411.org/) - Election information (ballots, registration, and more) by The League of Women Voters Education Fund.
 
 ### Polls and Studies
 
@@ -86,7 +86,7 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 
 #### Interests
 
-- [List of Congressional Comittees](https://www.congress.gov/committees) - Committees of the U.S. Congress.
+- [List of Congressional Committees](https://www.congress.gov/committees) - Committees of the U.S. Congress.
 
 ### Judicial
 
@@ -101,3 +101,9 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 - [How easy is it to securely leak information to some of America's top news organizations? This easy](https://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/) - Contains a list of Tor Addresses and SecureDrop URLs.
 - [How to Leak to the Intercept](https://theintercept.com/source/) - Similar to above, but also contains tips on how to protect your own security.
 - [Send a confidential news tip to the New York Times](https://www.nytimes.com/tips)
+
+## Other awesome lists
+
+- [GitHub topics: awesome](https://github.com/topics/awesome) - A list of awesome lists curated by GitHub.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
+- [Awesome API](https://github.com/Kikobeats/awesome-api) - A collection of public JSON APIs for use in web development.
