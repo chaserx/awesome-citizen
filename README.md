@@ -5,6 +5,9 @@ A curated list of awesome tools, libraries, and other citizen empowering resourc
 Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`) at the according issue or create a new one. Please review the [contribution guidelines](CONTRIBUTING.md) first.
 
 * [Awesome Citizen](#awesome-citizen)
+  * US Constitution :us:
+    * [The National Constitution Center](https://constitutioncenter.org/the-constitution) - Interactive Constitution, learn about the text, history, and meaning of the U.S. Constitution from leading scholars
+    * [The National Archives: The Consititution of the United States](https://www.archives.gov/founding-docs/constitution-transcript) - transcription of the Constitution as it was inscribed by Jacob Shallus on parchment
   * US Elections :us:
     * Voter Registration
       * [Vote.org](https://www.vote.org/register-to-vote/) - Register to Vote
