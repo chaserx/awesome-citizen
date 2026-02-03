@@ -101,9 +101,3 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 - [How easy is it to securely leak information to some of America's top news organizations? This easy](https://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/) - Contains a list of Tor Addresses and SecureDrop URLs.
 - [How to Leak to the Intercept](https://theintercept.com/source/) - Similar to above, but also contains tips on how to protect your own security.
 - [Send a confidential news tip to the New York Times](https://www.nytimes.com/tips)
-
-## Other awesome lists
-
-- [GitHub topics: awesome](https://github.com/topics/awesome) - A list of awesome lists curated by GitHub.
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
-- [Awesome API](https://github.com/Kikobeats/awesome-api) - A collection of public JSON APIs for use in web development.
