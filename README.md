@@ -1,4 +1,4 @@
-# Awesome Citizen
+# Awesome Citizen [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome tools, libraries, and other citizen empowering resources inspired by [other awesome awesomeness](https://github.com/topics/awesome).
 
