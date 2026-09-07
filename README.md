@@ -129,6 +129,7 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 - [Oversight.gov](https://www.oversight.gov/) - Federal Inspector General reports, audits, and investigations.
 - [Regulations.gov](https://www.regulations.gov/) - Search and comment on federal regulations and proposed rules.
 - [USAspending.gov](https://www.usaspending.gov/) - Official source for federal spending data including contracts, grants, and loans.
+- [OpenFilings Samples](https://github.com/molchalih/openfilings-samples) - Free CSV extracts of federal contracts and orders ending within 12 months and IRS 990-PF foundation grants, each row linked to its official source.
 
 ## Money in Politics
 
