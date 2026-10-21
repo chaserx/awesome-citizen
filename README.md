@@ -142,6 +142,7 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 - [American Community Survey](https://www.census.gov/programs-surveys/acs/) - Detailed demographic data updated annually.
 - [Census Data API](https://www.census.gov/developers/) - APIs for population, demographics, economic, and housing data.
 - [data.census.gov](https://data.census.gov/) - Explore and download Census Bureau statistics.
+- [Invokely](https://invokely.ai) - MCP and REST API for source-cited official statistics, including U.S. state and county demographic and economic data. The Free plan includes 500 MCP calls per month; REST data access requires Builder, Pro, or prepaid credits.
 
 ## Police Accountability
 
