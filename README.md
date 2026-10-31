@@ -148,6 +148,7 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 - [Mapping Police Violence](https://mappingpoliceviolence.org/) - Database of police killings in the US.
 - [The Policing Project](https://www.policingproject.org/) - Resources on police accountability and transparency.
 - [Vera Institute Police Transparency Index](https://policetransparency.vera.org/) - Rates police data transparency by jurisdiction.
+- [Flock Locations](https://flocklocations.com) - Public map of Flock Safety license plate reader camera locations across the United States.
 
 ## Civic Tech & Tools
 
