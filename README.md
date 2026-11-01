@@ -142,6 +142,7 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 - [American Community Survey](https://www.census.gov/programs-surveys/acs/) - Detailed demographic data updated annually.
 - [Census Data API](https://www.census.gov/developers/) - APIs for population, demographics, economic, and housing data.
 - [data.census.gov](https://data.census.gov/) - Explore and download Census Bureau statistics.
+- [PewTranslate Language Lookup](https://pewtranslate.com/en/guides/languages-spoken-by-zip-code) - Look up ACS home-language and English-proficiency estimates by U.S. ZCTA or county, with speaker-count margins of error.
 
 ## Police Accountability
 
