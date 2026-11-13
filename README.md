@@ -91,6 +91,7 @@ Sharing _is_ caring. If you think a resource should be added, add a 👍 (`:+1:`
 
 - [Congress.gov](https://www.congress.gov/search?q=%7B%22source%22:%22legislation%22%7D) - Official website for U.S. federal legislative information.
 - [GovTrack](https://www.govtrack.us/) - Track bills, votes, and activities of the United States Congress.
+- [Bill100](https://www.bill100.com) - Search every U.S. federal bill with a plain-English summary of each, and track up to five bills free.
 
 #### APIs
 
